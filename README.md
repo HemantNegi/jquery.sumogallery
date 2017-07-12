@@ -2,7 +2,7 @@ jquery.sumogallery
 ==================
 
 
-jquery.sumogallery.js - A beautiful cross light weight image gallery, perfect for blogs.
+jquery.sumogallery.js - A beautiful light weight image gallery, perfect for blogs.
 ---------------------------------------------------------------------------------------
 
 ## License
